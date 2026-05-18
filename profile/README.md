@@ -32,7 +32,7 @@ Next.js • React • TypeScript • PostgreSQL • Supabase • Prisma • Stri
 
 ## Case Studies
 
-- **ServiPro** — B2B procurement and contractor management platform
+- **[ServiPro](https://github.com/nustforge/servipro-case-study)** — B2B procurement and contractor management platform
 - **Salon SaaS** — Multi-tenant salon management system
 - **E-Commerce Platform** — Product, checkout, payment, and order workflows
 
