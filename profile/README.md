@@ -1,29 +1,29 @@
 # NUSTFORGE
 
-**Enterprise SaaS & Systems Engineering Studio**
+**Premium Websites, Platforms & SaaS Engineering Studio**
 
-NUSTFORGE builds production-grade software systems for businesses that need reliable platforms, clean workflows, and scalable digital infrastructure.
+NUSTFORGE builds premium websites, business platforms, dashboards, mobile apps, e-commerce stores, automation systems, and custom SaaS products for modern businesses.
 
-We design and develop SaaS platforms, admin dashboards, booking systems, e-commerce systems, automation workflows, APIs, and custom business software.
+We help businesses move from manual workflows and basic online presence to scalable digital systems that support operations, sales, and growth.
 
 ## What We Build
 
-- SaaS platforms and business systems
+- Business websites and landing pages
+- SaaS platforms and custom software products
 - Admin dashboards and internal tools
 - Booking and appointment systems
-- E-commerce and order management systems
-- Stripe payment and billing workflows
-- Multi-tenant applications
-- Backend APIs and database architecture
-- Cloud-ready production applications
+- E-commerce stores and order workflows
+- Mobile apps and customer portals
+- Automation systems and API integrations
+- Backend APIs and scalable database architecture
 
 ## Engineering Focus
 
 - Clean architecture
 - Secure access control
-- Scalable database design
 - Fast and responsive interfaces
-- Production deployment
+- Scalable database design
+- Reliable deployment
 - Long-term maintainability
 
 ## Tech Stack
@@ -32,9 +32,9 @@ Next.js • React • TypeScript • PostgreSQL • Supabase • Prisma • Stri
 
 ## Case Studies
 
-- **[ServiPro](https://github.com/nustforge/servipro-case-study)** — B2B procurement and contractor management platform
-- **Salon SaaS** — Multi-tenant salon management system
-- **E-Commerce Platform** — Product, checkout, payment, and order workflows
+- [ServiPro](https://github.com/nustforge/servipro-case-study) — B2B procurement and contractor management platform
+- Salon Platform — Multi-tenant salon management and booking system
+- E-Commerce Platform — Product, checkout, payment, and order workflows
 
 ## Work With Us
 
